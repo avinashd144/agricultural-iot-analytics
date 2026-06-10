@@ -1,0 +1,5 @@
+equipment_id,total_readings,fault_count,avg_load_pct,fault_rate_pct,mtbf_hours
+IRRIGATOR_01,2190,54,45.0,2.47,40.6
+TRACTOR_02,2190,49,40.6,2.24,44.7
+TRACTOR_01,2190,46,44.4,2.1,47.6
+HARVESTER_01,2190,33,44.7,1.51,66.4

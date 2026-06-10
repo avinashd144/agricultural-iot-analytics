@@ -1,0 +1,5 @@
+operational_state,avg_engine_rpm,avg_load_pct,avg_fuel_lh,avg_hydraulic_bar,avg_vibration_ms2,avg_speed_kmh,avg_battery_v
+ACTIVE,2197.13,72.1,12.98,180.07,4.51,7.99,12.6
+FAULT,0.0,0.0,0.19,20.16,0.8,0.24,12.58
+IDLE,799.8,14.97,2.69,20.11,0.81,0.25,12.59
+MAINTENANCE,805.04,14.53,2.59,20.01,0.81,0.26,12.59

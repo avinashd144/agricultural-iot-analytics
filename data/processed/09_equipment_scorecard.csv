@@ -1,0 +1,5 @@
+equipment_id,field_id,crop_type,total_hours,active_hours,fault_hours,total_fuel_litres,avg_load_pct,engine_hours_logged,idle_hours,utilisation_pct
+HARVESTER_01,FIELD_D,Potato,2190,1145,33,17614.1,44.7,8756,1012,52.28
+IRRIGATOR_01,FIELD_C,Barley,2190,1166,54,17769.1,45.0,8756,970,53.24
+TRACTOR_01,FIELD_A,Wheat,2190,1149,46,17481.3,44.4,8756,995,52.47
+TRACTOR_02,FIELD_B,Maize,2190,993,49,15972.4,40.6,8756,1148,45.34

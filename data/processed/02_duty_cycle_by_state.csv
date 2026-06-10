@@ -1,0 +1,5 @@
+operational_state,total_hours,total_fuel_litres,avg_rpm,avg_load_pct,duty_cycle_pct
+ACTIVE,4453,57785.4,2197.1,72.1,50.83
+IDLE,3445,9255.9,799.8,15.0,39.33
+MAINTENANCE,680,1761.7,805.0,14.5,7.76
+FAULT,182,33.9,0.0,0.0,2.08
