@@ -89,8 +89,9 @@ python python/01_explore_dataset.py
 ## Status
 
 - [x] Folder structure
-- [x] Dataset (raw CSV, 8 760 rows)
+- [x] Dataset (raw CSV, 8,760 rows × 20 columns)
 - [x] Python EDA script
-- [ ] SQL KPI queries
-- [ ] Power BI dashboard
-- [ ] Jupyter notebook (visualisations)
+- [x] SQL KPI queries (6 query blocks)
+- [x] Data transformation (10 processed CSVs)
+- [x] Power BI dashboard (4 pages — Overview, Monthly Trends, Operations, Equipment Scorecard)
+- [ ] Jupyter notebook (visualisations) — coming soon
