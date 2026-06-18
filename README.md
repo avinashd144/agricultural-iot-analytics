@@ -11,9 +11,9 @@ Build a **duty cycle analysis dashboard** that shows the operational states and 
 | Layer | Tool |
 |---|---|
 | Data generation & EDA | Python 3, Pandas, NumPy |
-| Data transformation | SQL (SQLite / DuckDB) |
+| Data transformation | SQL |
 | Visualisation | Power BI |
-| Version control | Git / GitHub |
+| Version control | GitHub |
 
 ## Dataset
 
