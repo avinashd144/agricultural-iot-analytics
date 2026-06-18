@@ -4,7 +4,7 @@ A data analytics portfolio project demonstrating end-to-end IoT sensor data anal
 
 ## Project Goal
 
-Build a **duty cycle analysis dashboard** that shows the operational states and KPIs of farm equipment (tractors, irrigators, harvesters) across a full year of hourly sensor readings.
+Build a **duty cycle analysis dashboard** that shows the operational states and KPIs of farm equipment (tractors, harvesters) across a full year of hourly sensor readings.
 
 ## Tech Stack
 
